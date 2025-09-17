@@ -4,7 +4,7 @@ không dùng tên file, đọc hết và đọc kỹ tệp subtitle đính kèm,
 - hãy tạo một tiêu đề youtube gây tò mò, chú ý, hit nhất trên youtube 
 - và tạo các keywords đang được nhiều người tìm kiềm nhất trên youtube
 - và tạo thêm 3-8 cụm từ chèn vào thumbnail
-
+- VÀ thêm 3-5 tiêu để test A/B hit, hot và gây tò mò nhất youtube
 
 => cho phim liên qua đến tận thế
 
